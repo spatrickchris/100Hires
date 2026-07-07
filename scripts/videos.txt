@@ -1,0 +1,3 @@
+# one video per line: <url> | <author-slug> | <short-title>
+# fill in after shortlisting on each channel, then run:
+#   python scripts/fetch_transcripts.py scripts/videos.txt
